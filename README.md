@@ -3,11 +3,9 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JitendraSinghNegi&label=Profile%20views&color=0e75b6&style=flat" alt="mohitkharayat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JitendraSinghNegi&label=Profile%20views&color=0e75b6&style=flat" alt="jitendrasingh" /> </p>
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **MERN**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **04jitendrasingh@gmail.com**
 
